@@ -17,9 +17,9 @@ This portfolio showcases my skills, projects, interests, and professional develo
 
 ## Website
 
-https://YOUR-USERNAME.github.io/
+(https://github.com/alicerivera)
 
 ## GitHub Repository
 
-https://github.com/YOUR-USERNAME/YOUR-USERNAME.github.io
+(https://github.com/alicerivera/alicerivera.github.io)
 ```
